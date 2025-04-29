@@ -17,8 +17,5 @@ Model Building: Your machine learning compass! Deploy various algorithms to cons
 
 Model Evaluation: Hoist the flag of rigorous evaluation to ensure precise predictions are anchored in reality.
 
-🚀 Getting Started
-Your journey begins here! 🌄 Follow these steps to embark on this adventure:
 
-Clone this repository: git clone https://github.com/MuhammadMooazam/Flight-Price-Prediction-Project.git
 
